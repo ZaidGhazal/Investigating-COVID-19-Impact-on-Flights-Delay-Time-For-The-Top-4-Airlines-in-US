@@ -1,7 +1,5 @@
 # Investigating-COVID-19-Impact-on-Flights-Delay-Time-For-The-Top-4-Airlines-in-US
 
-# Investigating COVID-19 Impact on Flights Delay Time For The Top 4 Airlines in US
-
 ## Table of Contents
 - [Introduction](#intro)
 - [Dataset Overview](#Dataset)
